@@ -619,7 +619,8 @@ width: 24px;
 .input-name:focus {
     border-color: #4D5AE5;
 }
-.input-name .svg-icon:hover {
+.input-name .svg-icon:hover,
+.input-name .svg-icon:focus {
     fill: #4D5AE5;
 }
 .svg-icon {
@@ -641,7 +642,7 @@ width: 24px;
     margin-bottom: 8px;
 }
 
-.input-name:focus .svg-icon {
+.input-name:focus svg-icon {
      fill: #4D5AE5;
 }
 .form-name-item {
