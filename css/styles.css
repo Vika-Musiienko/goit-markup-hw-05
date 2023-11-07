@@ -642,7 +642,7 @@ width: 24px;
     margin-bottom: 8px;
 }
 
-.input-name:focus svg-icon {
+.input-name:focus .svg-icon {
      fill: #4D5AE5;
 }
 .form-name-item {
