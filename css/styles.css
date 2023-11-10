@@ -620,7 +620,7 @@ width: 24px;
     border-color: #4D5AE5;
 }
 
-.input-name:focus .svg-icon {
+.input-name:focus + svg {
     fill: #4D5AE5;
 }
 .svg-icon {
